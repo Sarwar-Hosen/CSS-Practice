@@ -1,0 +1,9 @@
+div{
+    height: 100px;
+    width: 100px;
+    padding: 25px;
+    margin: 50px;
+    display: inline-block;
+}
+/* diplay: none; Thats means it will not take any space on the page. */
+/* visibility: hidden; Thats means it will take space on the page but it will not be visible. */

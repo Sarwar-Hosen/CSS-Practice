@@ -1,0 +1,27 @@
+.navbar{
+    background-color: darkorange;
+    display: flex;
+    justify-content: space-evenly;
+}
+a{
+    text-decoration:none;
+    color: black;
+}
+li{
+    list-style-type: none;
+    background-color:rgb(216, 160, 93);
+}
+.outer{
+    height: 400px;
+    width: 400px;
+    background-color: darkblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.inner{
+    height: 200px;
+    width: 200px;
+    background-color: cornflowerblue;
+}

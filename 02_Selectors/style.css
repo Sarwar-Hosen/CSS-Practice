@@ -1,0 +1,24 @@
+/* Universal Selector */
+* {
+    color: purple;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+/* Element Selector */
+h1 {
+    color: blue;
+    font-size: 24px;
+}
+
+/* id Selector */
+#HeadingOne {
+    color: orange;
+}
+#P1 {
+    color: brown;
+}
+/* class Selector */
+.MyClass {
+    color: rgb(3, 24, 80);
+    font-weight: bold;
+}

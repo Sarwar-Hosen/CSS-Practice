@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    color: blue;
+    text-decoration: overline;
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+p {
+    text-align: justify;
+    font-size: 30px;
+    font-family: arial;
+}
+h2{
+    font-weight: 800;
+}
+h3{
+font-weight: 600;
+}
+h4{
+    font-weight: 450;
+}
+h5{
+    font-weight: 300;
+}
+h6{
+    font-weight: 150;
+}

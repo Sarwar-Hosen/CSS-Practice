@@ -1,0 +1,12 @@
+#One{
+    font-size: 20px;
+}
+#Two{
+    font-size: 30px;
+}
+#Three{
+    font-size: 25px;
+    text-decoration: justify;
+    line-height: 40px;
+    text-transform: capitalize;
+}
